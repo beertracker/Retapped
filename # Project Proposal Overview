@@ -5,14 +5,20 @@ Team Name: Team Rocket
 
 Team Members:
 * Wyatt Rose
-* Michael
-* Gavin
-* Kevin
-* Nick
+* Michael Mechree
+* Gavin Akehurst
+* Kevin Iwatsuki
+* Nick Myers
 
 ## Synopsis
-2-5 sentence description of project outcome. Think about "intellectual merit" (why is this cool for learning) and "broader impact" (why is it good if we succeed).
+Our goal is to be able to keep track of the drinks that a user has tried, whether they liked it or not, data on the beer, and be able to recommend other beers to the user. The project should have personal profiles where users can become "friends" and see what their friends are drinking and what they like. This application will have various components such as setting up the database, the web server, & back-end functionality. Upon success, users will have an improved alcohol consumption experience, we will make revenue off of advertisements, and local beer businesses will have increased business.
 
 ## Components
-* Component1
-  * Lead: name1
+* Database
+  * Lead: Wyatt
+* Web Server
+  * Lead: Nick
+  * Michael
+* Back End Service
+  * Lead: Gavin
+  * Kevin
