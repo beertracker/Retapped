@@ -1,0 +1,12 @@
+Team Name: Team Rocket
+
+Team Members:
+* Wyatt Rose
+* Michael McCain
+* Gavin Akehurst
+* Kevin Iwatsuki
+* Nick Myers
+
+GitHub Org Link: https://github.com/beertracker
+
+GitHub Repo Link: https://github.com/beertracker/Retapped
