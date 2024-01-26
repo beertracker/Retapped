@@ -1,0 +1,8 @@
+# Instructions for setting up the project environment
+- This file contains the instructions that should be followed to obtain a working environment for Retapped. 
+
+## Installing Maven
+
+## Installing SpringBoot
+
+## Installing x,y,z
