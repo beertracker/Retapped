@@ -8,8 +8,8 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bruk</groupId>
-	<artifactId>d2lastpicker</artifactId>
+	<groupId>com.retapped</groupId>
+	<artifactId>Retapped</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Retapped</name>
 	<description>Retapped beer application.</description>
