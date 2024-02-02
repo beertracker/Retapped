@@ -1,19 +1,25 @@
 ### Michael McCain
-### 1/30/2024
+### 2/02/2024
 
 # Retapped Software Development Plan
 
-## Development Workflow - Agile
+## Administrivia
+### Development Workflow - Agile
 - **Trello** and **Discord** will be used for project organization and productivity.
 
-- <u> Planning Meeting</u>: Every Three Weeks
+### Meeting Details
+- Planning Meeting: Every Three Weeks
 	* Mixed: In-person/Discord
-- <u>Stand Ups</u>: Weekly
+	* Length: 50 minutes 
+- Stand Ups: Weekly
 	* Mixed: In-person/Discord
-- <u> Refinement Meeting</u>: One Week Before Planning Meeting
+	* Length: 30 minutes
+- Refinement Meeting: One Week Before Planning Meeting
 	* Mixed: In-person/Discord
-- <u>Retro</u>: Prior to the planning meeting
+	* Length: 15 minutes
+- Retro: Prior to the planning meeting
 	* Mixed: In-person/Discord
+	* Length: 10 minutes
 
 ## Proof of Concept
 > Our goal is to create an application that can keep track of the drinks that a user has tried, whether they liked it or not, data on the beer, and be able to recommend other beers to the user.
@@ -26,15 +32,15 @@
 
 ## What is to be Built
 ### Functionality
-- <u>Database</u>: Stores information about alocholic products (e.g. alcoholic %, Brand, Type, etc.)
-- <u>Web Server</u>: Make calls to backend services. Intuitive UI that presents data in an elegant way.
-- <u>Backend</u>: Handles calls to database. Handles account information. Calls to external API. 
+- Database: Stores information about alocholic products (e.g. alcoholic %, Brand, Type, etc.)
+- Web Server: Make calls to backend services. Intuitive UI that presents data in an elegant way.
+- Backend: Handles calls to database. Handles account information. Calls to external API. 
 
 ### Constraints
 - Limited API calls from free accounts
 - Scope of project may be limited to locality and number of included alcoholic beverages.
   
-## Finished Project
+### Finished Project
 The Project will be defined as finished when the following features are working as intended:
 - **Account creation**
 - **Interactive UI**
@@ -44,6 +50,7 @@ The Project will be defined as finished when the following features are working 
 	* Beverage "finding" with nearby stores
 	* Beverage "search"
 	* Friendship network
+	* Barcode Scanning (maybe?)
 - **Proper interoperability between backend/frontend services**
 	* Working web server
 	* Working database
@@ -59,13 +66,34 @@ The Project will be defined as finished when the following features are working 
 4. Kevin Iwatsuki
 5. Nick Myers
 
-## Components and Assigned Personnel
+### Components and Assigned Personnel
 - **Database**
-  * <u>*Lead*</u>: Wyatt
+  * *Lead*: Wyatt
 - **Web Server**
-  * <u>*Lead*</u>: Nick
+  * *Lead*: Nick
   * Michael
 - **Back End Service**
-  * <u>*Lead*</u>: Gavin
+  * *Lead*: Gavin
   * Kevin
   * Nick
+
+## Milestones
+### Milestone One **February 15, 2024**
+- Create Database
+- Web Services Running
+- Sync Database w/ Web Server
+
+### Milestone Two **March 15, 2024**
+- User Account Creation
+- Feature: View Profile
+- Rough-Draft UI
+	* Profile page
+		- Favorited Beers Page
+		- Rating Page 
+	* Beer Item Page
+	
+### Milestone Three **April 2, 2024**
+- Features:
+	* Beer Recommendations
+	* Barcode Scanner
+	* Location Searching
