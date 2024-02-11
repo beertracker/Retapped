@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';npm
+import './index.js'
 
 function App() {
   return (
@@ -10,12 +11,13 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
+        App();
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         Learn React
         </a>
       </header>
     </div>
