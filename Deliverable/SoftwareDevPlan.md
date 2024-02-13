@@ -78,8 +78,9 @@ The Project will be defined as finished when the following features are working 
   * Nick
 
 ## Milestones
-### Milestone One **February 15, 2024**
-- Create Database
+### Milestone One **February 18, 2024**\
+- Complete Requirements Documentation
+- Determine the Database Service (SupaBase)
 - Web Services Running
 - Sync Database w/ Web Server
 
