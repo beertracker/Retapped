@@ -78,13 +78,16 @@ The Project will be defined as finished when the following features are working 
   * Nick
 
 ## Milestones
-### Milestone One **February 18, 2024**\
+### Milestone One **February 18, 2024**
 - Complete Requirements Documentation
 - Determine the Database Service (SupaBase)
 - Web Services Running
 - Sync Database w/ Web Server
 
-### Milestone Two **March 15, 2024**
+### Milestone Two **March 03, 2024**
+- Design Specifications Document
+
+### Milestone Three **March 15, 2024**
 - User Account Creation
 - Feature: View Profile
 - Rough-Draft UI
@@ -93,8 +96,9 @@ The Project will be defined as finished when the following features are working 
 		- Rating Page 
 	* Beer Item Page
 	
-### Milestone Three **April 2, 2024**
+### Milestone Four **April 2, 2024**
 - Features:
 	* Beer Recommendations
 	* Barcode Scanner
 	* Location Searching
+- Final Product "Completed"
