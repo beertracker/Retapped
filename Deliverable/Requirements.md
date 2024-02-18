@@ -21,7 +21,7 @@
 | 2.4 | The Retapped system shall allow users to find stores near them with specific beaverages in stock using location services |
 | 2.5 | The Retapped system shall contain a search system allowing users to search for beaverages in the Retapped beaverage database |
 
-**Frontend/Backend Compatability and Operations**
+**Frontend/Backend Compatability and Operations:**
 | Req. ID | Requirement |
 | :------ | :---------- |
 | 3.1 | The Retapped system shall have a web server that uses data from and stores data in a database |
