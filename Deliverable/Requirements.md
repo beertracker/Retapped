@@ -17,10 +17,9 @@
 | :------ | :---------- |
 | 2.1 | The Retapped system shall recommend beaverage options to users based on their Flavor Profile |
 | 2.2 | The Retapped system shall show an average rating for each beaverage based on ratings from users who have logged and rated it |
-| 2.3 | Beaverage sharing?
+| 2.3 | The Retapped system shall allow users to share beaverage selections with other users |
 | 2.4 | The Retapped system shall allow users to find stores near them with specific beaverages in stock using location services |
 | 2.5 | The Retapped system shall contain a search system allowing users to search for beaverages in the Retapped beaverage database |
-| 2.6 | Friendship network? Already mentioned?|
 
 **Frontend/Backend Compatability and Operations**
 | Req. ID | Requirement |
@@ -30,13 +29,3 @@
 | 3.22| The Retapped system shall store beaverage information in the database | 
 | 3.23| The Retapped System shall store beaverage types in the database for use in creating a Flavor Profile for a user and making beaverage recommendations to a user |
 | 3.3 | The Retapped system shall use location services to locate a user if they allow it |
-
-
-
-NOTES: 
-
-1.4: rating system? 5 star?
-check 2.3,6
-
-
-
