@@ -27,7 +27,7 @@
 
 ## Contributors
 * Nicholas Myers
-* Group Member
+* Michael McCain
 * Group Member
 * Group Member
 * Group Member
