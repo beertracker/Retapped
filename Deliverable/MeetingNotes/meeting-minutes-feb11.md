@@ -28,6 +28,6 @@
 ## Contributors
 * Nicholas Myers
 * Michael McCain
-* Group Member
+* Wyatt Rose
 * Group Member
 * Group Member
