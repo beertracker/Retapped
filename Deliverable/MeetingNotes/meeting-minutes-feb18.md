@@ -44,3 +44,4 @@ Each Member should directly add their name as a _separate commit_ from the creat
 - Nicholas Myers
 - Wyatt Rose
 - Gavin Akehurst
+- Kevin Iwatsuki
