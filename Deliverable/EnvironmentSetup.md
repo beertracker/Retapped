@@ -45,8 +45,8 @@ git pull origin
 - Navigate to src/main/frontend
 ```
 npm run build
+serve -s build
 ```
-
 - Run Springboot
 ```
 mvn clean install
