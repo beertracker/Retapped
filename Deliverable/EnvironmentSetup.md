@@ -47,7 +47,9 @@ git pull origin
 npm run build
 serve -s build
 ```
+- Navigate to /Retapped and Run Springboot
 - Run Springboot
+
 ```
 mvn clean install
 mvn spring-boot:run

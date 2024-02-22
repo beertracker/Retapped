@@ -27,7 +27,7 @@
 
 ## Contributors
 * Nicholas Myers
-* Group Member
-* Group Member
-* Group Member
-* Group Member
+* Michael McCain
+* Wyatt Rose
+* Kevin Iwatsuki
+* Gavin Akehurst
