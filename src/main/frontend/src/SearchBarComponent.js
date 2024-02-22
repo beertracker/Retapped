@@ -6,10 +6,10 @@ export default function SearchBarComponent() {
     const [beers, setBeers] = useState([]);
 
     useEffect(() => {
-        beerFetchingService.getBeer();
+        getBeer();
     }, []);
 
-    const getbeers = () => {
+    const getBeer = () => {
 
         beerFetchingService.getBeer().then((response) => {
             setBeers(response.data)
