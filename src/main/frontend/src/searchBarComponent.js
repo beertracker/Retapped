@@ -1,7 +1,7 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState, useEffect} from 'react';
 import beerFetchingService from "./service/beerFetchingService";
 
-function SearchBarComponent() {
+export default function SearchBarComponent() {
 
     const [beers, setBeers] = useState([]);
 
@@ -19,9 +19,7 @@ function SearchBarComponent() {
 
     return (
         <div className = "container">
-
-            <h1 className = "text-center"> Beer List</h1>
-
+            <h1 className = "text-center">Beer List</h1>
             <table className = "table table-striped">
                 <thead>
                 <tr>
@@ -31,7 +29,6 @@ function SearchBarComponent() {
                     <th> Type</th>
                     <th> IBU</th>
                 </tr>
-
                 </thead>
                 <tbody>
                 {
@@ -47,14 +44,10 @@ function SearchBarComponent() {
 
                     )
                 }
-
                 </tbody>
-
-
             </table>
-
         </div>
     )
 }
 
-export default SearchBarComponent()
+// export default SearchBarComponent()
