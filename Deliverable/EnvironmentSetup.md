@@ -45,9 +45,11 @@ git pull origin
 - Navigate to src/main/frontend
 ```
 npm run build
+serve -s build
 ```
-
 - Navigate to /Retapped and Run Springboot
+- Run Springboot
+
 ```
 mvn clean install
 mvn spring-boot:run
