@@ -1,13 +1,13 @@
 import React, {useState, useEffect} from 'react'
 import beerFetchingService from "./service/beerFetchingService";
 
-function searchBarComponent() {
+function SearchBarComponent() {
 
-    const [beers, setBeers] = useState([])
+    const [beers, setBeers] = useState([]);
 
     useEffect(() => {
-        beerFetchingService.getBeer()
-    }, [])
+        beerFetchingService.getBeer();
+    }, []);
 
     const getbeers = () => {
 
@@ -57,4 +57,4 @@ function searchBarComponent() {
     )
 }
 
-export default searchBarComponent()
+export default SearchBarComponent()
