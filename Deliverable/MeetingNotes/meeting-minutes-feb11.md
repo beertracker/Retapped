@@ -30,4 +30,4 @@
 * Michael McCain
 * Wyatt Rose
 * Kevin Iwatsuki
-* Group Member
+* Gavin Akehurst
