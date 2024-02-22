@@ -12,7 +12,7 @@ import com.retapped.domain.Beer;
 import com.retapped.service.RetappedService;
 
 @RestController
-//@CrossOrigin(origins = "http://localhost:8080/")
+@CrossOrigin(origins = "http://localhost:3000")
 // @RequestMapping()
 public class RetappedController {
 

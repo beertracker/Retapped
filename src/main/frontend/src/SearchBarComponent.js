@@ -11,7 +11,7 @@ export default function SearchBarComponent() {
 
     const getbeers = () => {
 
-        beerFetchingService.getEmployees().then((response) => {
+        beerFetchingService.getBeer().then((response) => {
             setBeers(response.data)
             console.log(response.data);
         });
