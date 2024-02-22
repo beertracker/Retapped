@@ -29,5 +29,5 @@
 * Nicholas Myers
 * Michael McCain
 * Wyatt Rose
-* Group Member
+* Kevin Iwatsuki
 * Group Member
