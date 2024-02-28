@@ -18,7 +18,7 @@
 
 ## Contributors
 * Michael Mccain
-* Group Member
+* Kevin Iwatsuki
 * Group Member
 * Group Member
 * Group Member
