@@ -16,9 +16,28 @@ public class UserProfile {
     //constructor for the profile
     //creates a profile with an input unique username and a password
     public userProfile(String username, String password) {
-        
+
+        //check to make sure the input is not null
+        //then set the username and password
+        if(username != null && password != null){
+            this.username = username;
+            this.password = password;
+        }
+
+        //password requirements?
+
+    }
+
+    //getter for the username
+    public String getUsername(){
+        return username;
+    }
+
+    //check to see if the password entered is the correct password
+    public boolean isPasswordCorrect(String inputPassword){
 
 
+        return false;
     }
 
 }
