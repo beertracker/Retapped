@@ -85,7 +85,7 @@ The Project will be defined as finished when the following features are working 
 - Sync Database w/ Web Server
 
 ### Milestone Two **March 03, 2024**
-- Design Specifications Document
+- ~~Design Specifications Document~~ 
 
 ### Milestone Three **March 15, 2024**
 - User Account Creation
@@ -95,6 +95,7 @@ The Project will be defined as finished when the following features are working 
 		- Favorited Beers Page
 		- Rating Page 
 	* Beer Item Page
+- Design Specification Document
 	
 ### Milestone Four **April 2, 2024**
 - Features:
