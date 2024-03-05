@@ -1,24 +1,24 @@
 # Meeting Minutes
-**Date:**
+**Date: 02/08/2024**
 
 ## Agenda
-1. Item 1
-2. Item 2
-3. Item 3
+1. Fill the database (Supa) with a minimal amount of data for testing and basic implementation.
+2. Use REST API with REACT.
+3. Automatically update the database with new users.
 
 ## Notes
-1. Response to Item 1
-2. Response to Item 2
-3. Response to Item 3
+1. Sunday, 2/11/2024 - Group meeting on how to use REST API with REACT.
 
 ## Action Items
-* Group Member `n`
-    * Action Item 1
-    * Action Item 2
-    * Action Item 3
+* Group Member `Wyatt & Nick`
+    * Implementing REST API
+
+* Group Member `Gav & Kev`
+     * Write Requirements documentation. 
 
 ## Contributors
-Remove this line. Each Member should directly add their name as a _separate commit_ from the creation of the meeting-minutes.md file
+* Michael Mccain
+* Group Member
 * Group Member
 * Group Member
 * Group Member

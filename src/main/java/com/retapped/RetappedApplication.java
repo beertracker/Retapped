@@ -9,6 +9,4 @@ public class RetappedApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RetappedApplication.class, args);
 	}
-
-
 }
