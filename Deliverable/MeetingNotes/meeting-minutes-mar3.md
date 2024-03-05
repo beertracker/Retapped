@@ -32,7 +32,7 @@
 
 - Nick:
 
-  - 
+  - Progress is going well on the SearchBar. Frontend, database, and backend are talking to eachother. Just need to implement the "searching" aspect with the actual "bar". Nearly complete, need to find a way to restructure the data to fit the implemented SearchBar.
 
 - Wyatt:
   - Briefly looked at auth0 functionality provided by supabase, will look more into it.
@@ -45,3 +45,4 @@ Each Member should directly add their name as a _separate commit_ from the creat
 - Kevin Iwatsuki
 - Gavin Akehurst
 - Michael McCain
+- Nicholas Myers
