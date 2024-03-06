@@ -10,7 +10,7 @@
 ## Notes
 
 1. Ask Professor about taking points off meeting minutes without feedback.
-2. Pushing back Design Specification Document due date - Have Requirements 1.1 - 1.7 done by 3/10/2024, complete document by 3/17/2024.
+2. Pushing back Design Specification Document due date - Have Requirements 1.1 - 1.7 done by 3/10/2024, complete document by 3/15/2024.
 3. Email professor to notify about Design Specification date change.
 4. Everyone will contribute to the Design Specification document during the end portion of class.
 
