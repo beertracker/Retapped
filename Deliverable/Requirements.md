@@ -46,4 +46,4 @@
 | 3.23| The Retapped System shall store beaverage types in the database for use in creating a Flavor Profile for a user and making beaverage recommendations to a user |
 | 3.23.e | Visual inspection |
 | 3.3 | The Retapped system shall use location services to locate a user if they allow it |
-| 3.3.e | Verification through software |
+| 3.3.e | Manual and Input verification |
