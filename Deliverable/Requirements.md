@@ -18,7 +18,7 @@
 | 1.5 | Each user shall have the ability to add preferred beaverages to a list of preferences |
 | 1.5.e | Input verification |
 | 1.6 | The Retapped system shall develop a "Flavor Profile" for each user based on their logged beaverages and preferences | 
-| 1.6.e | Verification through software and boundary testing |
+| 1.6.e | Verification through software, visual inspection, and boundary testing |
 
 **User Interface Requirements:**
 | Req. ID | Requirement |
