@@ -11,8 +11,8 @@
 | D.1.2.e |  |
 | D.1.31 |  |
 | D.1.31.e |  |
-| D.1.32|  |
-| D.1.32.e|  |
+| D.1.32| When a user logs a beaverage, they will be able to give it a rating. The rating will be on a scale from 1-10. 1 is the lowest rating (if the user disliked the beaverage) and 10 is the highest rating (if the user liked the beaverage). The user and the user's friends will be able to see the user's ratings. These ratings will contribute to the calculation of the user's flavor profile. |
+| D.1.32.e| A user will be mocked for the testing. The user will log beaverages, each with a different rating on the scale. The user's account will be inspected from the user's perspective as well as other accounts that are friends with the user to verify that the ratings of the logged beaverages are visible and correct. |
 | D.1.4| When a user drinks a beaverage that is in the Retapped database, they will be able to "log" the beaverage in the app. The log will be added to their history so that the user and the user's friends will be able to see what beaverage they drank, the date that they drank the beaverage, and what their rating of that beaverage was. |
 | D.1.4.e| A user will be mocked for the testing. The user will log several beaverages from the Retapped database with ratings and on different days. The user's account will be inspected from the user's perspective as well as other accounts that are friends with the user to verify that the log data is accurate and visible. |
 | D.1.5 | When a user creates an account, they will be able to add beaverages from the database to a list of "preferences." This list of preferences will be visible to the user and the user's friends, and it will affect the user's calculated flavor profile. |
