@@ -17,8 +17,7 @@
 | D.1.5.e |  |
 | D.1.6 |  |
 | D.1.6.e |  |
-| D.1.7 |  |
-| D.1.7.e |  |
+
 
 **User Interface Design:**
 | Req. ID | Design |
