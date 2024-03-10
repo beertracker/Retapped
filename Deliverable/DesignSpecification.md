@@ -1,16 +1,24 @@
-# Retapped Software Requirement Testing
+# Retapped Design Sepcification
 
 **User Profile Requirements:**
 | Req. ID | Test Method |
 | :------ | :---------- |
 | D.1.1 |  |
+| D.1.1.e |  |
 | D.1.2 |  |
+| D.1.2.e |  |
 | D.1.3 |  |
+| D.1.3.e |  |
 | D.1.41|  |
+| D.1.41.e|  |
 | D.1.42|  |
+| D.1.42.e|  |
 | D.1.5 |  |
+| D.1.5.e |  |
 | D.1.6 |  |
-| D.1.7 |  | 
+| D.1.6.e |  |
+| D.1.7 |  |
+| D.1.7.e |  |
 
 **User Interface Requirements:**
 | Req. ID | Test Method |
