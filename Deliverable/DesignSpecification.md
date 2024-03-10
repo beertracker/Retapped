@@ -11,11 +11,11 @@
 | D.1.31.e |  |
 | D.1.32|  |
 | D.1.32.e|  |
-| D.1.4|  |
-| D.1.4.e|  |
-| D.1.5 |  |
-| D.1.5.e |  |
-| D.1.6 |  |
+| D.1.4| When a user drinks a beaverage that is in the Retapped database, they will be able to "log" the beaverage in the app. The log will be added to their history so that the user and the user's friends will be able to see what beaverage they drank, the date that they drank the beaverage, and what their rating of that beaverage was. |
+| D.1.4.e| A user will be mocked for the testing. The user will log several beaverages from the Retapped database with ratings and on different days. The user's account will be inspected from the user's perspective as well as other accounts that are friends with the user to see that the log data is accurate and visible. |
+| D.1.5 | When a user creates an account, they will be able to add beaverages from the database to a list of "preferences." This list of preferences will be visible to the user and the user's friends, and it will affect the user's calculated flavor profile. |
+| D.1.5.e | A user will be mocked for the testing. The user will add several beaverages to their preferences during account creation as well as after the account has been created. The user's preferences list will be inspected from the user's perspective as well as other accounts that are friends with the user to see if the preferences list is accurate and visible. The prefernece list will also be used later in the testing for the flavor profile.  |
+| D.1.6 | A user will be able to add beaverages to a list of their preferences. They will |
 | D.1.6.e |  |
 
 
