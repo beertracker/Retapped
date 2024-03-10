@@ -1,7 +1,7 @@
 # Retapped Software Requirements
 
 **User Profile Requirements:**
-| Req. ID | Requirement |
+| Req. ID | Test Method |
 | :------ | :---------- |
 | D.1.1 |  |
 | D.1.2 |  |
@@ -13,7 +13,7 @@
 | D.1.7 |  | 
 
 **User Interface Requirements:**
-| Req. ID | Requirement |
+| Req. ID | Test Method |
 | :------ | :---------- |
 | D.2.1 |  |
 | D.2.2 |  |
@@ -22,7 +22,7 @@
 | D.2.5 |  |
 
 **Frontend/Backend Compatability and Operations:**
-| Req. ID | Requirement |
+| Req. ID | Test Method |
 | :------ | :---------- |
 | D.3.1 |  |
 | D.3.21|  |
