@@ -29,3 +29,4 @@
 ## Contributors
 
 - Michael McCain
+- Nicholas Myers
