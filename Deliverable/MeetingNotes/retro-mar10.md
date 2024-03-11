@@ -32,3 +32,4 @@
 - Michael McCain
 - Kevin Iwatsuki
 - Nicholas Myers
+- Wyatt Rose
