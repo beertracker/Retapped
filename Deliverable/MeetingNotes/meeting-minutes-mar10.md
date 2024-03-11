@@ -43,3 +43,4 @@ Each Member should directly add their name as a _separate commit_ from the creat
 - Michael McCain
 - Nicholas Myers
 - Kevin Iwatsuki
+- Wyatt Rose
