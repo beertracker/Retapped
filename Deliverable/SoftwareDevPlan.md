@@ -23,7 +23,7 @@
   - ~~Length: 15 minutes~~
 - Retro: Prior to the planning meeting
   - Mixed: In-person/Discord
-  - Length: 10 minutes~~
+  - Length: 10 minutes
 
 ## Proof of Concept
 
