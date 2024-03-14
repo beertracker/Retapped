@@ -24,10 +24,11 @@
 **User Interface Design:**
 | Req. ID | Design |
 | :------ | :---------- |
-| D.2.1 |  |
-| D.2.1.e |  |
-| D.2.2 |  |
-| D.2.2.e |  |
+| D.2.1 | Inside the user profile, there will be a recommended beers section. This will consist of a random selection of highly suggested beers using the algorithm explained in 1.6. The UI will include basic information about the beer at first glance, such as the ABV and name, while also allowing users to click on
+the beer and take it to that beer page and display more detailed information. Such as a full flavor description and brewing company. |
+| D.2.1.e | Since React allows for hot reloads, we can see if the following works as intended via visual inspection at localhost 3000. If beers are not formatted correctly or their images do not link to the beers page, it will be known that the software is not working as intended. However, there will need to be a unit test that ensures that the beers are properly randomized, and do not frequently favor the same suggestions to the user. |
+| D.2.2 | When users rate a beverage, their ratings will be added to the average rating of a beer, located in the database for the beers. Whenever a user clicks on a beer's name or image, its average rating will be displayed on that beer's information page.  |
+| D.2.2.e | There will be unit tests written to ensure that the average rating is being calculated correctly, additionally, a user will be mocked to simulate a user rating a beer for the first time. After the mocked user has successfully rated a beer, it can be visually inspected to see whether or not the server updated the beer's average rating and if that rating is correct. |
 | D.2.3 |  |
 | D.2.3.e |  |
 | D.2.4|  |
