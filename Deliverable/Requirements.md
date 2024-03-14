@@ -24,7 +24,7 @@
 | Req. ID | Requirement |
 | :------ | :---------- |
 | 2.1 | The Retapped system shall recommend beaverage options to users based on their Flavor Profile |
-| 2.1.e | Verification through software |
+| 2.1.e | Verification through software and visual inspection |
 | 2.2 | The Retapped system shall show an average rating for each beaverage based on ratings from users who have logged and rated it |
 | 2.2.e | Verification through software and visual inspection |
 | 2.3 | The Retapped system shall allow users to share beaverage selections with other users |
