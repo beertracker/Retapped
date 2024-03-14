@@ -28,12 +28,12 @@
 | D.2.1.e |  |
 | D.2.2 |  |
 | D.2.2.e |  |
-| D.2.3 |  |
-| D.2.3.e |  |
-| D.2.4|  |
-| D.2.4.e|  |
-| D.2.5 |  |
-| D.2.5.e |  |
+| D.2.3 | The UI will allow a beverage in the listing to be selected, and then a button will be clicked to share with a different user. When the button is clicked, the user's friends will appear in a list for the user to select a friend to share the beverage with, and also a text field to add a comment to. When the user does this, the friend that the beverage was shared with will get a notification on their account that their friend shared a beverage with them. This notification will include the name of the beverage that can be clicked to view information about that beverage, along with the comment that the user shared with them. |
+| D.2.3.e | Tester 1 will find a beverage in the beverage listing screen. Tester 1 will then click on the beverage, and select tester 2's account, and add a comment to the text field. Tester 1 will then click the "Share" button. Tester 2 will inspect their account home page and visually confirm that a notification from tester 1 has appeared. Tester 2 will visually confirm that they can click on the beverage to view info about that beverage. Tester 2 will then confirm that the comment tester 1 input to the search box is shown below the beverage. |
+| D.2.4| The Retapped UI will determine the User's location and then recommend breweries near the user. This will be done automatically using location services that the user first consents to, and then a map will show the user breweries that are near them. The name of the brewery will be displayed and the user can click on it to find out more information and get directions to the place they select. |
+| D.2.4.e| Testing will be done by manually using the UI. The tester will consent to location services and then open the map. The tester will verify that there are breweries displayed near the tester's location. The tester will click on the brewery that is displayed to verify that appropriate directions to the brewery are given. |
+| D.2.5 | The Retapped UI will include a page of beverages with a search bar at the top for the user to search for beverages by name, beverage type, and alcohol by volume. |
+| D.2.5.e | The tester will visually verify that the search bar exists, and filters for beverage type and ABV are present. The tester will input the name of a beverage that they know exists in the database, and then view the beverage in the listing under the search bar. When the tester inputs the name of a beverage and filters by abv and beverage type that do not match that beverage, then the UI should not list the beverage as a candidate for the search. |
 
 **Frontend/Backend Compatability and Operations Design:**
 | Req. ID | Design |

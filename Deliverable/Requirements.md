@@ -28,7 +28,7 @@
 | 2.2 | The Retapped system shall show an average rating for each beaverage based on ratings from users who have logged and rated it |
 | 2.2.e | Verification through software and visual inspection |
 | 2.3 | The Retapped system shall allow users to share beaverage selections with other users |
-| 2.3.e | Verification through software |
+| 2.3.e | Visual inspection |
 | 2.4 | The Retapped system shall allow users to find stores near them with specific beaverages in stock using location services |
 | 2.4.e | Input verification and visual inspection |
 | 2.5 | The Retapped system shall contain a search system allowing users to search for beaverages in the Retapped beaverage database |
