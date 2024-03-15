@@ -37,8 +37,8 @@
 **Frontend/Backend Compatability and Operations Design:**
 | Req. ID | Design |
 | :------ | :---------- |
-| D.3.1 | |
-| D.3.1.e | |
+| D.3.1 | The webserver will hold all the appropriate files for our webpage (index, css, html, js, java, etc. ). Using React, the data will be sent from the webserver to the Supabase database using their [documentation](https://supabase.com/docs/guides/getting-started/quickstarts/reactjs). |
+| D.3.1.e | Visually verify the server is being properly hosted by going to http://localhost:8080 |
 | D.3.21| Using the third-party database web service SupaBase, a User schema will be created with the following fields: userId, UserName, FirstName, LastName, Email, Password (encrypted?), LikedBeer, DislikedBeer, Friend, FavoritedLocation.
 | D.3.21.e| A fake user profile will be constructed with all of the fields filled in with verifiable data. Once completed, the user profile page will be viewed to verify the proper information displayed on the web page. Also, any backend requests (logs) will be reviewed to ensure no errors occur between data requests. [SupaBase REST API](https://supabase.com/docs/guides/api/) |
 | D.3.22| Using the third-party database web service SupaBase, a Beverage schema will be created with the following fields: Brand, ABV, and IBU. The Brand field will contain the name of the beer (i.e., Budweiser). The ABV field shall contain the % value of alcohol that a beer contains per ounce. IBUs measure the parts per million of isohumulone found in a beer, so the IBU will contain the bitterness scale between the values of 0(non-bitter)-120(bitterest).|
