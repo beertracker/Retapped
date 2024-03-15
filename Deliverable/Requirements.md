@@ -3,7 +3,7 @@
 **User Profile Requirements:**
 | Req. ID | Requirement |
 | :------ | :---------- |
-| 1.11 | The Retapped system shall allow a user to create a new account with an input username and password  |
+| 1.11 | The Retapped system shall allow a user to create a new account with an input username and password |
 | 1.11.e | Verification through software |
 | 1.12 | Each new user shall have a unique username |
 | 1.12.e | Verification through software |
@@ -17,7 +17,7 @@
 | 1.4.e | Input verification and visual inspection |
 | 1.5 | Each user shall have the ability to add preferred beaverages to a list of preferences |
 | 1.5.e | Input verification |
-| 1.6 | The Retapped system shall develop a "Flavor Profile" for each user based on their logged beaverages and preferences | 
+| 1.6 | The Retapped system shall develop a "Flavor Profile" for each user based on their logged beaverages and preferences |
 | 1.6.e | Verification through software, visual inspection, and boundary testing |
 
 **User Interface Requirements:**
@@ -41,7 +41,7 @@
 | 3.1.e | Visual inspection |
 | 3.21| The Retapped system shall store user account information, including in the database |
 | 3.21.e | Verification through software |
-| 3.22| The Retapped system shall store beaverage information in the database | 
+| 3.22| The Retapped system shall store beaverage information in the database |
 | 3.22.e | Verification through software and input verification |
 | 3.23| The Retapped System shall store beaverage types in the database for use in creating a Flavor Profile for a user and making beaverage recommendations to a user |
 | 3.23.e | Visual inspection |
