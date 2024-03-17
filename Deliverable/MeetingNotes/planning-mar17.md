@@ -26,3 +26,4 @@
 **Contributors**:
 
 - Michael McCain
+- Wyatt Rose
