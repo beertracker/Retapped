@@ -3,10 +3,10 @@
 **User Profile Requirements:**
 | Req. ID | Requirement |
 | :------ | :---------- |
-| 1.11 | The Retapped system shall allow a user to create a new account with an input username and password |
+| 1.11 | The Retapped system shall allow a user to create a new account with an input username and password. |
 | 1.11.e | Verification through software |
-| 1.12 | Each new user shall have a unique username |
-| 1.12.e | Verification through software |
+| 1.12 | Each new user shall have a unique username. |
+| 1.12.e | Verify by pulling from database. |
 | 1.2 | Each user shall have a "friends list" that will include other users that they choose to "follow" |
 | 1.2.e | Verification through software |
 | 1.31| Each user shall have the ability to log when they had a beaverage from the Retapped beaverage database |
