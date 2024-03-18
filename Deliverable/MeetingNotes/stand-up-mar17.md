@@ -14,6 +14,7 @@
 
 - [Wyatt]: Implement login functionality for the UI and reactive supabase access.
 - [Kev]: Refining the details of 1.x.x sections of the DSD.
+- [Gavin]: Refining the details of 1.x.x sections of the DSD.
 - [Michael]: Refine details of section 3 of the DSD and improve GMaps searching implementation.
 - [Nick]:
 
@@ -33,3 +34,4 @@
 - Wyatt Rose
 - Kevin Iwatsuki
 - Nicholas Myers
+- Gavin Akehurst
