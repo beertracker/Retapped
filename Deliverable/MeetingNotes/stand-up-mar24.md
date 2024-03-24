@@ -4,8 +4,8 @@
 
 ## 1. Weekly Progress
 
-- [Kev]: Worked on flavor profile backend code.
-- [Gavin]: Made improvements to the DSD.
+- [Kev]: Made improvements to the DSD.
+- [Gavin]: Worked on flavor profile backend code.
 - [Michael]: Discussed MVP release with team, created MVP.md, and published to GitHub.
 - [Nick]:
 - [Wyatt]:
@@ -25,3 +25,4 @@
 ## Contributors
 
 - Michael McCain
+- Gavin Akehurst
