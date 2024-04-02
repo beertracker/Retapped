@@ -16,5 +16,5 @@ N/A (Cancelled)
 Contributors
 Each Member should directly add their name as a separate commit from the creation of the meeting-minutes.md file
 
-Nicholas Myers
-Gavin Akehurst
+- Nicholas Myers
+- Gavin Akehurst
