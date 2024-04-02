@@ -1,4 +1,4 @@
-import SearchBarComponent from "./SearchBarComponent"
+// import SearchBarComponent from "./SearchBarComponent"
 
 import "./App.css"
 
@@ -24,13 +24,14 @@ import {
 } from "@react-google-maps/api"
 import { useRef, useState } from "react"
 
-const center = { lat: 48.8584, lng: 2.2945 }
+const center = { lat: 39.77989349393462, lng: -84.06510220325708 }
+// 39.77989349393462, -84.06510220325708
+// function App() {
+//   return <SearchBarComponent />
+// }
 
 function App() {
-  return <SearchBarComponent />
-}
-
-function Map() {
+  /** Loads in google maps script to display map */
   const { isLoaded } = useJsApiLoader({
     googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY,
     libraries: ["places"],
@@ -46,6 +47,7 @@ function Map() {
   /** @type React.MutableRefObject<HTMLInputElement> */
   const destinationRef = useRef()
 
+  //** if script is not load display a "skeleton" */
   if (!isLoaded) {
     return <SkeletonText />
   }
@@ -154,4 +156,4 @@ function Map() {
   )
 }
 
-export { App, Map }
+export default App
