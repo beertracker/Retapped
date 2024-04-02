@@ -20,3 +20,4 @@ Each Member should directly add their name as a separate commit from the creatio
 - Gavin Akehurst
 - Kevin Iwatsuki
 - Wyatt Rose
+- Michael McCain
