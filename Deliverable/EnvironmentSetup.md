@@ -40,16 +40,21 @@ node -v # should print `v20.12.0`
 # verifies the right NPM version is in the environment
 npm -v # should print `10.5.0`
 
+
 npm install react-scripts
 npm install react-dom
+npm install react-router-dom
 npm install web-vitals
-npm audit fix
 node -v
 
+<!-- https://www.npmjs.com/package/@react-google-maps/api -->
+npm i @react-google-maps/api
+<!-- https://www.npmjs.com/package/react-icons -->
+npm install react-icons --save
+<!-- https://www.npmjs.com/package/@chakra-ui/react -->
+npm install --save @chakra-ui/react
 
-[npm i @react-google-maps/api](https://www.npmjs.com/package/@react-google-maps/api)
-[npm install react-icons --save](https://www.npmjs.com/package/react-icons)
-[npm install --save @chakra-ui/react](https://www.npmjs.com/package/@chakra-ui/react)
+npm audit fix
 
 ```
 
@@ -81,8 +86,6 @@ mvn spring-boot:run
 ```
 
 - Open the browser and navigate to http://localhost:8080
-
-* Look for the blue react animation
 
 - Open browser and navigate to http://localhost:8080/hello
 
