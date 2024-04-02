@@ -19,3 +19,4 @@ Each Member should directly add their name as a separate commit from the creatio
 - Nicholas Myers
 - Gavin Akehurst
 - Kevin Iwatsuki
+- Michael McCain
