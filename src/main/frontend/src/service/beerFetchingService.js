@@ -16,6 +16,6 @@ class beerFetchingService
 //     getBeer();
 // } 
 
-export default beerFetchingService();
+export default new beerFetchingService();
 
 
