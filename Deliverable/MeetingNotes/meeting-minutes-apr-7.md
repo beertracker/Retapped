@@ -25,3 +25,4 @@
 - Gavin Akehurst
 - Nick Myers
 - Kevin Iwatsuki
+- Wyatt Rose
