@@ -23,3 +23,4 @@
 ## Contributors
 
 - Gavin Akehurst
+- Nick Myers
