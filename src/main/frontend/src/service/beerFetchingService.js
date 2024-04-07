@@ -12,10 +12,8 @@ class beerFetchingService
     }
 }
 
-// const beerFetchingService = {
-//     getBeer();
-// } 
 
+// eslint-disable-next-line
 export default new beerFetchingService();
 
 
