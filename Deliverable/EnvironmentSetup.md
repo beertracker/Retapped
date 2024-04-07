@@ -45,7 +45,6 @@ npm install react-scripts
 npm install react-dom
 npm install react-router-dom
 npm install web-vitals
-node -v
 
 <!-- https://www.npmjs.com/package/@react-google-maps/api -->
 npm i @react-google-maps/api
