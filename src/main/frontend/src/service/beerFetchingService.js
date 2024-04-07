@@ -12,6 +12,10 @@ class beerFetchingService
     }
 }
 
-export default new beerFetchingService();
+// const beerFetchingService = {
+//     getBeer();
+// } 
+
+export default beerFetchingService();
 
 
