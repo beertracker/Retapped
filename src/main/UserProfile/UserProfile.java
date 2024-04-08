@@ -28,7 +28,9 @@ public class UserProfile {
     //constructor for the profile
     //creates a profile with a unique username and a password
     public userProfile(String username, String password) {
-        // Username requirements: each user must have a unique username by creating it with characters [a-z], [0-9], and special characters (@, !, etc). The user will not be able to create them with invalid characters such as `[]` and `\`.
+        // Username and password requirements: 
+        // Each user must have a username and password by creating it with characters [a-z], [0-9], and special characters (@, !, etc). 
+        // The user will not be able to create them with invalid characters such as `[]` and `\`.
 
         // Define patterns to search for in usernames and passwords.
         Pattern letter = Pattern.compile("[a-zA-Z]");
@@ -48,8 +50,8 @@ public class UserProfile {
         Matcher PW_hasSpecial = special.match(password);
         Matcher PW_hasInvalid = invalid_special.match(password);
 
-        //check to make sure the input is not null
-        //then do the following code:
+        //Check to make sure the input is not null.
+        //Next, do the following code:
         if(username != null && password != null){
             //Check if username is valid and print a message if it isn't.
             if(!UN_hasletter.find() == true || !UN_hasDigit.find() == true || !UN_hasSpecial.find() == true || !UN_hasInvalid.find() == false){
@@ -73,6 +75,7 @@ public class UserProfile {
         return username;
     }
 
+    //The Username must be unique.
     //Check to see if the Username entered exists.
     public boolean usernameExists(String inputUsername){
         //Return true if the inputted username matches a username in the database.
