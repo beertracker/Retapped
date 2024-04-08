@@ -31,8 +31,6 @@ const center = { lat: 39.77989349393462, lng: -84.06510220325708 } // default lo
 
 /* MAIN COMPONENT */
 function App() {
-  const [setVendors] = useState([])
-
   // Loads in google maps script to display map with libraries(react-google-maps/api)
   const { isLoaded } = useJsApiLoader({
     googleMapsApiKey: googleMapsApiKey,
@@ -41,6 +39,7 @@ function App() {
 
   // React hook: Initial Map State
   const [map, setMap] = useState(null)
+  const [vendors, setVendors] = useState([]) // Initailize vendors state
 
   // Ensure the script and map are loaded and calls fetchNearbyVendors
   useEffect(() => {
@@ -66,6 +65,7 @@ function App() {
     }
     // eslint-disable-next-line no-undef
     const directionsService = new google.maps.DirectionsService() // Initialize directionService object using Gmaps API
+
     const results = await directionsService.route({
       // wait for directionService and then Initialize results
       origin: originRef.current.value,
